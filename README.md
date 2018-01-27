@@ -1,4 +1,4 @@
-# investigating_compilers
+# Investigating Compilers
 
 ## Author
 
